@@ -1,0 +1,26 @@
+.resume-section {
+    background-color: #f7f7f7;
+    color: #222;
+    padding: 100px 20px 60px 20px;
+    text-align: center;
+  }
+  
+  .resume-content h2 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  .download-btn {
+    background-color: #00adb5;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 18px;
+    transition: background-color 0.3s;
+  }
+  
+  .download-btn:hover {
+    background-color: #007b7f;
+  }
+  
