@@ -12,7 +12,7 @@ function Resume() {
         transition={{ duration: 1 }}
       >
         <h2>Resume</h2>
-        <a href="/resume.pdf" download className="download-btn">Download Resume</a>
+        <a href="/ResumeMohit.pdf" download className="download-btn">Download Resume</a>
       </motion.div>
     </section>
   );

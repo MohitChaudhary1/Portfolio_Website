@@ -12,7 +12,7 @@ function About() {
         transition={{ duration: 1 }}
       >
         <h2>About Me</h2>
-        <p>Driven Undergrad with 2 years of experience in full-stack development, building scalable web applications and impactful user interfaces. Eager to explore opportunities at the intersection of software engineering and Artificial intelligence systems.</p>
+        <p>Driven Undergrad with 1.5 years of experience in full-stack development, building scalable web applications and impactful user interfaces. Eager to explore opportunities at the intersection of software engineering and Artificial intelligence systems.</p>
       </motion.div>
     </section>
   );
